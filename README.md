@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexneri93
 - 👀 I’m interested in UI/UX design and front-end development.
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Node JS, React, Electron
 - 💞️ I’m looking to collaborate on some interesting proyects.
 - 📫 How to reach me: alex.neri1993@gmail.com
 
